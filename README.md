@@ -4,10 +4,10 @@
 <p align="left">
   <ul>
       <li>
-           I’m 20 years old.
+           I’m 22 years old.
       </li>
       <li>
-           I’m currently studying Computer engineering at Universidade do Minho.
+           I’m currently studying software engineering at Universidade do Minho.
       </li>
       <li>
            How to reach me: nunom.tmelo@hotmail.com
