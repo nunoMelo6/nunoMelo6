@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm nunoMelo6</h1>
+<h1 align="center"></h1>
 <h3 align="center"></h3>
+
 <h3 align="left">About me:</h3>
 <p align="left">
   <ul>
@@ -7,27 +8,41 @@
            I’m 22 years old.
       </li>
       <li>
-           I’m currently studying software engineering at Universidade do Minho.
+           Currently studying software engineering at Universidade do Minho.
       </li>
       <li>
            How to reach me: nunom.tmelo@hotmail.com
       </li>
   </ul>
 </p>
+
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
+
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> 
   </a> 
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
+
 <br>
+
 <div>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nunoMelo6&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nunoMelo6" />
