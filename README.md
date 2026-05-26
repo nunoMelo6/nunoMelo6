@@ -5,14 +5,12 @@
 <p align="left">
   <ul>
       <li>
-           I’m 22 years old.
+           I’m 23 years old.
       </li>
       <li>
            Currently studying software engineering at Universidade do Minho.
       </li>
-      <li>
-           How to reach me: nunom.tmelo@hotmail.com
-      </li>
+      
   </ul>
 </p>
 
