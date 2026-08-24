@@ -1,9 +1,4 @@
 
-<div align="center">
-
-<img src="./assets/svg/startup.svg">
-
-</div>
 
 
 <details>
@@ -123,14 +118,4 @@
 </details>
 
 
-<details>
 
-<summary>Footer</summary>
-
-<div align="center">
-
-<img src="./assets/svg/footer.svg">
-
-</div>
-
-</details>
