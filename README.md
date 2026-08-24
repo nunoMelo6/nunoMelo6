@@ -1,173 +1,136 @@
 
 <div align="center">
 
-<img src="assets/svg/startup.svg">
+<img src="./assets/svg/startup.svg">
 
 </div>
 
 
-<a id="main-menu"></a>
+<details>
 
-# Main Menu
-
-> Select a module
-
-- [Header](#header)
-- [About](#about)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Education](#education)
-- [Statistics](#statistics)
-- [Quests](#quests)
-- [Timeline](#timeline)
-- [Contact](#contact)
-
-
-<a id="header"></a>
-
-## Header
+<summary>Header</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/header.svg">
-
-</a>
+<img src="./assets/svg/header.svg">
 
 </div>
 
+</details>
 
-<a id="about"></a>
 
-## About
+<details>
+
+<summary>About</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/about.svg">
-
-</a>
+<img src="./assets/svg/about.svg">
 
 </div>
 
+</details>
 
-<a id="projects"></a>
 
-## Projects
+<details>
+
+<summary>Projects</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/projects.svg">
-
-</a>
+<img src="./assets/svg/projects.svg">
 
 </div>
 
+</details>
 
-<a id="skills"></a>
 
-## Skills
+<details>
+
+<summary>Skills</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/skills.svg">
-
-</a>
+<img src="./assets/svg/skills.svg">
 
 </div>
 
+</details>
 
-<a id="education"></a>
 
-## Education
+<details>
+
+<summary>Education</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/education.svg">
-
-</a>
+<img src="./assets/svg/education.svg">
 
 </div>
 
+</details>
 
-<a id="statistics"></a>
 
-## Statistics
+<details>
+
+<summary>Statistics</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/statistics.svg">
-
-</a>
+<img src="./assets/svg/statistics.svg">
 
 </div>
 
+</details>
 
-<a id="quests"></a>
 
-## Quests
+<details>
+
+<summary>Quests</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/quests.svg">
-
-</a>
+<img src="./assets/svg/quests.svg">
 
 </div>
 
+</details>
 
-<a id="timeline"></a>
 
-## Timeline
+<details>
+
+<summary>Timeline</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/timeline.svg">
-
-</a>
+<img src="./assets/svg/timeline.svg">
 
 </div>
 
+</details>
 
-<a id="contact"></a>
 
-## Contact
+<details>
+
+<summary>Contact</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/contact.svg">
-
-</a>
+<img src="./assets/svg/contact.svg">
 
 </div>
 
+</details>
 
-<a id="footer"></a>
 
-## Footer
+<details>
+
+<summary>Footer</summary>
 
 <div align="center">
 
-<a href="#main-menu">
-
-<img src="assets/svg/footer.svg">
-
-</a>
+<img src="./assets/svg/footer.svg">
 
 </div>
+
+</details>
