@@ -1,121 +1,19 @@
+# Nuno_Melo
 
+**Software Engineering Finalist**
 
+I build software, experiment with new technologies and work on personal projects.
 
-<details>
+---
 
-<summary>Header</summary>
+### Portfolio
 
-<div align="center">
+[**→ Visit my website**](https://teu-site.github.io)
 
-<img src="./assets/svg/header.svg">
+Projects, skills, education and more.
 
-</div>
+---
 
-</details>
+### GitHub
 
-
-<details>
-
-<summary>About</summary>
-
-<div align="center">
-
-<img src="./assets/svg/about.svg">
-
-</div>
-
-</details>
-
-
-<details>
-
-<summary>Projects</summary>
-
-<div align="center">
-
-<img src="./assets/svg/projects.svg">
-
-</div>
-
-</details>
-
-
-<details>
-
-<summary>Skills</summary>
-
-<div align="center">
-
-<img src="./assets/svg/skills.svg">
-
-</div>
-
-</details>
-
-
-<details>
-
-<summary>Education</summary>
-
-<div align="center">
-
-<img src="./assets/svg/education.svg">
-
-</div>
-
-</details>
-
-
-<details>
-
-<summary>Statistics</summary>
-
-<div align="center">
-
-<img src="./assets/svg/statistics.svg">
-
-</div>
-
-</details>
-
-
-<details>
-
-<summary>Quests</summary>
-
-<div align="center">
-
-<img src="./assets/svg/quests.svg">
-
-</div>
-
-</details>
-
-
-<details>
-
-<summary>Timeline</summary>
-
-<div align="center">
-
-<img src="./assets/svg/timeline.svg">
-
-</div>
-
-</details>
-
-
-<details>
-
-<summary>Contact</summary>
-
-<div align="center">
-
-<img src="./assets/svg/contact.svg">
-
-</div>
-
-</details>
-
-
-
+[@nunoMelo6](https://github.com/nunoMelo6)
