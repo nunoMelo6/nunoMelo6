@@ -8,7 +8,7 @@ I build software, experiment with new technologies and work on personal projects
 
 ### Portfolio
 
-[**→ Visit my website**](https://teu-site.github.io)
+[**→ Visit my website**](https://nunomelo6.github.io/))
 
 Projects, skills, education and more.
 
